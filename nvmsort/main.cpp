@@ -5,7 +5,7 @@
 #include "Array.h"
 #include "Heap.h"
 #include "HybridSort.h"
-#include "QuickSort.h"
+//#include "QuickSort.h"
 #include <fstream>
 #include <ctime>
 #include <sys/time.h>

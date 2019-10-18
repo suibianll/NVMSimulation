@@ -1,4 +1,4 @@
-chmod -R 777 *
+ chmod -R 777 *
 rm -rf *10000.txt
 rm -rf *100000.txt
 rm -rf *1000000*
